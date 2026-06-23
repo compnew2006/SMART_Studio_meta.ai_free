@@ -1,20 +1,32 @@
-# 🤖 SMART Studio — Meta AI Go API & React 19 Frontend
-
-> **🌐 Languages:** [🇬🇧 English](README.md) · [🇪🇬 العربية](README.ar.md) (Looking for the Arabic version? Check [README.ar.md](README.ar.md))
-
-[![Go Version](https://img.shields.io/badge/Go-1.21%2B-00ADD8?style=flat&logo=go)](https://go.dev/)
-[![React Version](https://img.shields.io/badge/React-19.0.0-61DAFB?style=flat&logo=react)](https://react.dev/)
-[![License](https://img.shields.io/github/license/compnew2006/meta.ai-sdk)](https://github.com/compnew2006/meta.ai-sdk/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/compnew2006/meta.ai-sdk)](https://github.com/compnew2006/meta.ai-sdk)
-
 <p align="center">
-  <img src="docs/images/demo-multiplatform.png" alt="SMART Studio — Meta AI Web UI ↔ Telegram Hermes Bot" width="800">
-  <br><em>Meta AI running locally, bridged to Telegram &amp; WhatsApp via <a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></em>
+  <a href="https://github.com/compnew2006/MetaAI-Free-Hermes-Agent/stargazers">
+    <img src="https://img.shields.io/github/stars/compnew2006/MetaAI-Free-Hermes-Agent?style=for-the-badge&logo=github&label=STAR&color=f5a623" alt="Star this repo">
+  </a>
 </p>
 
-**Unleash the Power of Meta AI with Go & React** 🚀
+<h1 align="center">🤖 MetaAI Free — Run Meta's Muse Spark LLM via Hermes Agent</h1>
 
-A modern, feature-rich web application combining a React 19 design tool (featuring 11 specialized studios) with a high-performance Go API server acting as a wrapper around Meta AI. All without API keys!
+<p align="center">
+  <b>No API Keys · No Limits · No Cost</b><br>
+  <a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a> + <a href="https://meta.ai">Meta AI (Muse Spark)</a> + <a href="https://go.dev">Go API</a> + <a href="https://react.dev">React 19 Frontend</a>
+</p>
+
+<p align="center">
+  <img src="docs/images/demo-multiplatform.png" alt="Meta AI — Web UI ↔ Telegram ↔ WhatsApp via Hermes Agent" width="800">
+  <br><em>Same Meta AI model, responding on Telegram, WhatsApp &amp; Web — all from your own server</em>
+</p>
+
+> 💡 **What is this?** A self-hosted Go API that wraps Meta AI (powered by Muse Spark) into an OpenAI-compatible endpoint. Connect it to **Hermes Agent** and chat with Meta's LLM for free from Telegram, WhatsApp, or any messaging platform — no API key required.
+
+<details>
+<summary>⭐ <b>Enjoying this project? Star it on GitHub to support us!</b></summary>
+<br>
+
+If this project saved you money on AI API costs or made your life easier, a ⭐ star is the best way to say thanks! It helps others discover it too.
+
+[⭐ Star this repo on GitHub →](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent/stargazers)
+
+</details>
 
 > [!WARNING]
 > **Educational Purposes Only:** This project is created strictly for educational, research, and development purposes. It is an unofficial integration and should not be used in commercial production environments without respecting Meta's official guidelines and terms of service.

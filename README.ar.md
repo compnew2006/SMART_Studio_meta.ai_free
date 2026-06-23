@@ -1,15 +1,32 @@
-# 🤖 SMART Studio — واجهة React 19 و API Server بلغة Go لـ Meta AI
+<p align="center">
+  <a href="https://github.com/compnew2006/MetaAI-Free-Hermes-Agent/stargazers">
+    <img src="https://img.shields.io/github/stars/compnew2006/MetaAI-Free-Hermes-Agent?style=for-the-badge&logo=github&label=نجم&color=f5a623" alt="نجم هذا المشروع">
+  </a>
+</p>
 
-> **🌐 اللغات:** [🇬🇧 English](README.md) · [🇪🇬 العربية](README.ar.md) (هل تبحث عن النسخة الإنجليزية؟ راجع [README.md](README.md))
+<h1 align="center">🤖 MetaAI Free — شغّل Muse Spark من Meta مجاناً عبر Hermes Agent</h1>
 
-[![Go Version](https://img.shields.io/badge/Go-1.21%2B-00ADD8?style=flat&logo=go)](https://go.dev/)
-[![React Version](https://img.shields.io/badge/React-19.0.0-61DAFB?style=flat&logo=react)](https://react.dev/)
-[![License](https://img.shields.io/github/license/compnew2006/meta.ai-sdk)](https://github.com/compnew2006/meta.ai-sdk/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/compnew2006/meta.ai-sdk)](https://github.com/compnew2006/meta.ai-sdk)
+<p align="center">
+  <b>بدون مفاتيح API · بدون حدود · بدون تكلفة</b><br>
+  <a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a> + <a href="https://meta.ai">Meta AI (Muse Spark)</a> + <a href="https://go.dev">Go API</a> + <a href="https://react.dev">React 19</a>
+</p>
 
-أطلق العنان لقوة Meta AI باستخدام Go و React 🚀
+<p align="center">
+  <img src="docs/images/demo-multiplatform.png" alt="Meta AI — واجهة ويب ↔ تليجرام ↔ واتساب عبر Hermes Agent" width="800">
+  <br><em>نفس نموذج Meta AI، يرد على تليجرام وواتساب والويب — كل ذلك من سيرفرك الخاص</em>
+</p>
 
-تطبيق ويب حديث وغني بالميزات يدمج أداة تصميم مبنية بـ React 19 (تضم 11 استوديوًا تسويقيًا متخصصًا) مع خادم API عالي الأداء بلغة Go يعمل كـ wrapper لـ Meta AI. كل ذلك بدون الحاجة لمفاتيح API!
+> 💡 **إيه هذا؟** خادم Go مُستضاف ذاتياً يلفّ Meta AI (المُشغّل بـ Muse Spark) في نقطة نهاية متوافقة مع OpenAI. وصّله بـ **Hermes Agent** وتحدّث مع نموذج LLM الخاص بـ Meta مجاناً من تليجرام أو واتساب أو أي منصة مراسلة — بدون مفتاح API.
+
+<details>
+<summary>⭐ <b>عجبك المشروع؟ نجمّه على GitHub لدعمنا!</b></summary>
+<br>
+
+لو المشروع وفّر عليك فلوس API أو سهّل عليك شغلك، نجمه ⭐ هي أحسن طريقة تقول فيها شكراً! كمان بتساعد الناس التانية تكتشفه.
+
+[⭐ نجم المشروع على GitHub →](https://github.com/compnew2006/MetaAI-Free-Hermes-Agent/stargazers)
+
+</details>
 
 > [!WARNING]
 > **لأغراض تعليمية فقط:** تم إنشاء هذا المشروع خصيصاً للأغراض التعليمية والبحثية والتطويرية فقط. هذا دمج غير رسمي ويجب عدم استخدامه في بيئات الإنتاج التجارية دون احترام إرشادات وشروط الخدمة الرسمية لشركة Meta.
