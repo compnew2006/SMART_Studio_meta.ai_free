@@ -7,7 +7,12 @@
 [![License](https://img.shields.io/github/license/compnew2006/meta.ai-sdk)](https://github.com/compnew2006/meta.ai-sdk/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/compnew2006/meta.ai-sdk)](https://github.com/compnew2006/meta.ai-sdk)
 
-Unleash the Power of Meta AI with Go & React 🚀
+<p align="center">
+  <img src="docs/images/demo-multiplatform.png" alt="SMART Studio — Meta AI Web UI ↔ Telegram Hermes Bot" width="800">
+  <br><em>Meta AI running locally, bridged to Telegram &amp; WhatsApp via <a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a></em>
+</p>
+
+**Unleash the Power of Meta AI with Go & React** 🚀
 
 A modern, feature-rich web application combining a React 19 design tool (featuring 11 specialized studios) with a high-performance Go API server acting as a wrapper around Meta AI. All without API keys!
 
