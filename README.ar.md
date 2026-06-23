@@ -33,7 +33,7 @@
 
 | الاستوديو / الميزة | الوصف | المحرك | الحالة |
 | :--- | :--- | :--- | :--- |
-| 💬 **الدردشة الذكية** | مدعومة بـ Muse Spark / Llama 3 مع ميزة البحث الفوري من Bing | Meta AI | ✅ تعمل |
+| 💬 **الدردشة الذكية** | مدعومة بـ Muse Spark مع ميزة البحث الفوري من Bing | Meta AI | ✅ تعمل |
 | 🎨 **Creator Studio** | توليد صور المنتجات باتجاهات مخصصة | Meta AI | ✅ تعمل |
 | 🎬 **Video Studio** | توليد مقاطع فيديو سينمائية من النصوص أو الصور المرجعية | Meta AI | ✅ تعمل |
 | 🔍 **تحليل الصور** | وصف الصور واستخراج الـ prompts وتدقيق هوية العلامة التجارية | Meta AI | ✅ تعمل |
@@ -242,4 +242,4 @@ meta.ai-sdk/
 - ✅ الالتزام بشروط خدمة Meta.
 - ✅ احترام حدود الاستخدام والسياسات.
 
-**رخصة Muse Spark:** قم بزيارة [llama.com/llama3/license](https://llama.com/llama3/license) لمعرفة شروط استخدام Muse Spark / Llama 3.
+**رخصة Muse Spark:** قم بزيارة [llama.com/llama3/license](https://llama.com/llama3/license) لمعرفة شروط استخدام Muse Spark.

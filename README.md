@@ -33,7 +33,7 @@ A modern, feature-rich web application combining a React 19 design tool (featuri
 
 | Studio / Feature | Description | Engine | Status |
 | :--- | :--- | :--- | :--- |
-| 💬 **Intelligent Chat** | Powered by Muse Spark / Llama 3 with real-time Bing search | Meta AI | ✅ Working |
+| 💬 **Intelligent Chat** | Powered by Muse Spark with real-time Bing search | Meta AI | ✅ Working |
 | 🎨 **Creator Studio** | Generate product images in custom orientations | Meta AI | ✅ Working |
 | 🎬 **Video Studio** | Generate cinematic videos from text/image references | Meta AI | ✅ Working |
 | 🔍 **Image Analysis** | Describe, extract prompts, and audit brand aesthetics | Meta AI | ✅ Working |
@@ -242,4 +242,4 @@ This project is an independent implementation and is not officially affiliated w
 * ✅ Comply with Meta's Terms of Service
 * ✅ Respect usage limits and policies
 
-**Muse Spark License:** Visit [llama.com/llama3/license](https://llama.com/llama3/license) for Muse Spark / Llama 3 usage terms.
+**Muse Spark License:** Visit [llama.com/llama3/license](https://llama.com/llama3/license) for Muse Spark usage terms.
